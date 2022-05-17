@@ -1,0 +1,20 @@
+{
+    "records":
+    [
+    {
+        "id": 1,
+        "archieval-Interval": 3,
+        "storage-type": "S3"
+    },
+    {
+        "id": 2,
+        "archieval-Interval": 2,
+        "storage-type": "FileServer"
+    },
+    {
+        "id": 3,
+        "archieval-Interval": 3,
+        "storage-type": "S3"
+    }
+    ]
+}
